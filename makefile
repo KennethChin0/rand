@@ -10,4 +10,5 @@ run:
 
 clean:
 	rm *.o
-	rm *~
+	rm random.txt
+	rm program
